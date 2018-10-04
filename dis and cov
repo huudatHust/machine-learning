@@ -1,0 +1,43 @@
+_load_image : 
+	+ load ảnh size batch_size * (224, 224, 3)
+	+ pixel/255 - 0.5
+get_new_state :
+	+ load ảnh mới có size batch_size -> ra dc state mới
+	+ history reset = 0
+	+ gọi get_state để lấy state và score
+	+ trả lại state , score từ get_state; state_raw, target_state_raw từ _load_image
+
+get_state :
+	+ tính độ sai khác giữa 2 ảnh trog hệ lab
+	+ get feature gồm deep_feature, color_feature, history
+	+ get score là độ sai khác giữa ảnh hiện tại và ảnh target
+
+predict :
+	+ tính q và q_action với tham số là state hiện tại từ q_network
+	+ chọn random lấy bat_size action từ tập actions
+	+ trả lại actions là tập action random, qs là tập q value từ bộ kích thước batch_size đưa vào
+act :
+	+ thực hiện từng action trên từng ảnh (bat_zie) sẽ thu được image_after_np
+	+ gọi hàm get_state để lại state mới và score với tập ảnh sau retouch
+	+ tính được reward
+	+ trả về new_state, image_after_np, reward, new_score
+test :
+	+ get new state
+	+ predict action và q_values mới
+	+ gọi act() để lấy state mới, ...
+	+ gọi get_state() để tính score_diff	
+	+ tính retouched_score
+
+q_learning_minibatch :
+
+update_target_q_network :
+	+ save lại q_w
+
+enqueue_samples :
+	+ get_new_state
+	+ predict
+	+ act
+	+ save queue
+
+
+	
