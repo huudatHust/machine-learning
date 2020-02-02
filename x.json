@@ -1,14 +1,30 @@
 {"data":[
   {
+    "name":"TIENG ANH 123",
         "site" : "https://www.tienganh123.com/",
         "domain":".tienganh123.com",
         "cookie" :"php7_ta_123_session_id=5ncs3u3pth85nmgg1992hcksn4",
         "limitPage": ""
   },
   {
+    "name" : "STUDY PHIM",
       "site" : "https://www.studyphim.vn",
         "domain":".studyphim.vn",
         "cookie" :"remember_82e5d2c56bdd0811318f0cf078b78bfc=eyJpdiI6ImJGcnNWbjhoU3Y4SDREV0hDK2FuaFE9PSIsInZhbHVlIjoiQWRCbGZvY3ZVMTA0OWFudGR2YW16NEN2alR6eFVBaytrZXVzamRJWkptWmxaRnNqcDZKeWtkR0xQNlNMSzFIRlVYVlJBUGpnNXVPZjdcL055N3Q4b3dza3FHaU5MOGJhWGVrTm9ZVlJlXC9Wbz0iLCJtYWMiOiJiODkzZjk3NDRlMDFlYzYzNjViOGFjMjEyMjNiNmEwMmNmM2FhZGJhMzYyMzNhOTg4YjNmMDQ5YzViOWQyZGNlIn0%3D; _ga=GA1.2.234194329.1580548215; _gid=GA1.2.259955943.1580548215; study_session=eyJpdiI6ImVLeFwvbDR3Qm9Peld4RUhuN2NmNWpBPT0iLCJ2YWx1ZSI6IlRrYXJBNEtzTXBGRVZmSk91QU9QTnlkZDhEdFZuKzg0V2dUOEpnSkZMXC9iUGZPWGRTNVhGWmZLQmFPMFR4WDBJOTRVN094U1NrZlptRTc3SitKbG5qUT09IiwibWFjIjoiN2YwNTc2MDQwNGQ4OWMwZjI2NmYxNjc1NGFjNjM1ZjgwZThlYjEyMmE3YTA2ZmZjMTcwZTUxYTE4NDNlY2JiNyJ9",
+        "limitPage": ""
+  },
+  {
+    "name":"LUYEN THI 123",
+        "site" : "https://www.luyenthi123.com/",
+        "domain":".luyenthi123.com",
+        "cookie" :"lt123_cookie=enPVReoD4zePk3ue18hQQy2SFfMUfVRO2XE%2FS7%2Bp10dSBxeAiz9se%2FDKo0k4Wn0oOr%2FkLShj8DqRLoa0f6%2FNdgGV%2F8ukyB7mWFPpzeWGDEXkydtJ%2F1LbpV1tTTq1yQkUAF0DqQLjDstwU3FR%2FHnFy4NgpMajmeOPGGQ8j1nVTgiKBpBFRpRSvMxJOezWG55hRFV4bIf6EqiFjgE1Cuzt%2Fe7MrFndWOpXBmp9XDMIpoqKwkux5h4A4xhkPI9Z1U4IZs3IiUjtqXn7NTdt9AP11xygdry9J6MEklOuWGCug%2FmZJXBmCUebCqfXEYMRGa4rymfQvYQ19D08yMdOYabUZUqVUN%2BC70%2BNdYJDBZ2%2FYZxltZX4IWkQymPfYLvqZfpiqajxzK2RHIJnp51ZxyznXMSNFPO64DtiaEtde3yXYvkvMNpMSWOXcyPe18%2FjyYgAtVyx%2BPAESS1ZKHE%2BwIY3DpECebRnBq9I83cQrKHqkHS%2F%2BjNPxw%2FY94DRnLLrOZjyrPtheQSe2m7bLnAQ9%2BcZCAD1gtbXa1t239fuEYoqAOkc5pxU72aCqxPG57sl78dxCgqOnN8fsJ2F6kc208EHSYhFKttXnICtJ18GtvN9kaJTj92sPf8Q1w2VmOg1rVmCrblCFOEDdXnHMdKUu1W0pQjH3QvBG8UozpuIrwV2JPfUM5q1yMBE65LpfPfjF8FHod1wtGt4VbWls%2FIa2YG01XZQdkzah%2Bi7mGE5zAm0Fb127hfA8ca%2FywpvreK%2BaM52LcbZpovONCGUloPmDL6RlrxvRutHZKEnk3vc52Fft6cPGkKxwQ%2BHAL8X8HegQD%2BbZ6edWccs51x4fKtR%2FsQUM%2FPn%2FiNoxisGT%2FTfqNSJBbS4J6WO4a6ZoD8lfRgRWuEkeKilnNnaIT6QcYLb9v5Kucwhqo69CJ%2FeBgJRslutEty3PdXt7BC%2Fu%2BlGXmOqkpF8hOZB2gVHe0uA3K2NNxL122ek%2Bo4ILfMzkVC0%2BnracASYRP5EyPs1WLtat8C2NUZarAXtwACdDYMr5hWuthtt5cBf0BhQ8DB6kqfswkEIA8KS%2FDAEEhQvmFZD4r0szWJvCcbH1EmudS7dnNLJLAnhBijm1ep931QDkxO%2B9QgJMICsdDpyrdPMkAgiKD16qMEg7Cr9jWV0bx0wJklz5EYu2A%3D%3D",
+        "limitPage": ""
+  },
+  {
+    "name":"NHACCUATUI",
+        "site" : "https://www.nhaccuatui.com/",
+        "domain":".nhaccuatui.com",
+        "cookie" :"NCT_AUTH_JWT=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTEyMDcsImxvZ2luTWV0aG9kIjoiMiIsInVzZXJJZCI6IjkzMjcyODYiLCJuYmYiOjE1NzkwNTkyMDcsImlhdCI6MTU3OTA1OTIwNywiZGV2aWNlSWQiOiI0NThBNTVGRjJBNTc0OTIyOTg2QUZGRUYxQzVGMjY0NSJ9.Vlhefb10vuQtKFsXI5XtO3K3iH8FmhvfXMwNAVLwcec",
         "limitPage": ""
   }
 ]}
