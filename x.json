@@ -26,12 +26,5 @@
         "domain":".nhaccuatui.com",
         "cookie" :"NCT_AUTH_JWT=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTEyMDcsImxvZ2luTWV0aG9kIjoiMiIsInVzZXJJZCI6IjkzMjcyODYiLCJuYmYiOjE1NzkwNTkyMDcsImlhdCI6MTU3OTA1OTIwNywiZGV2aWNlSWQiOiI0NThBNTVGRjJBNTc0OTIyOTg2QUZGRUYxQzVGMjY0NSJ9.Vlhefb10vuQtKFsXI5XtO3K3iH8FmhvfXMwNAVLwcec",
         "limitPage": ""
-  },
-  {
-    "name":"TOOMVA",
-        "site" : "https://toomva.com/",
-        "domain":".toomva.com",
-        "cookie" :"laravel_session=eyJpdiI6InhoV0hNUVFmVVFURmpxaFVsTythK0E9PSIsInZhbHVlIjoiQVo5V0tmakNrQzRndUd4SVpXK0ZxRVBYYjlhV2lvOXBlY091RVNTRnBFSnIzdDdCbGpXQjdGWVBlNVd3ZUZUbFBmbE5xUDVqWDN5bVwvc0I2bm5PSXFBPT0iLCJtYWMiOiI3ZDc3YTJjNjkwYzUyYjMzZTI1ZjFlOGE3ZmNkM2JkYWIxYjhlYTM0OTQwNGJmM2VjNzA5ZjgxZDczMmUyMjIyIn0%3D",
-        "limitPage": ""
   }
 ]}
