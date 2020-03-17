@@ -24,7 +24,7 @@
     "name":"NHACCUATUI",
         "site" : "https://www.nhaccuatui.com/",
         "domain":".nhaccuatui.com",
-        "cookie" :"NCT_AUTH_JWT=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTEyMDcsImxvZ2luTWV0aG9kIjoiMiIsInVzZXJJZCI6IjkzMjcyODYiLCJuYmYiOjE1NzkwNTkyMDcsImlhdCI6MTU3OTA1OTIwNywiZGV2aWNlSWQiOiI0NThBNTVGRjJBNTc0OTIyOTg2QUZGRUYxQzVGMjY0NSJ9.Vlhefb10vuQtKFsXI5XtO3K3iH8FmhvfXMwNAVLwcec",
+        "cookie" :"NCT_AUTH_JWT=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODU3Mjc5NDUsImxvZ2luTWV0aG9kIjoiMiIsInVzZXJJZCI6IjExODI4NDgxIiwibmJmIjoxNTgzMTM1OTQ1LCJpYXQiOjE1ODMxMzU5NDUsImRldmljZUlkIjoiM0U4NjhDMERDRDI5NDI4MkEzMzcxMjQxMjM3NDAyRUMifQ.rNk5r6x_7EvJKPp3DmkbkfeV2wAaC33Li8Avy_KM79A",
         "limitPage": "",
         "is_web": true
   },
