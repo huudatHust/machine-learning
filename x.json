@@ -34,7 +34,7 @@
         "domain":".cliptv.vn",
         "cookie" :"clip_web=eyJpdiI6IlF6SnBWZTUwN3pBSXNBZktVYkRnOVE9PSIsInZhbHVlIjoiZldId2luWlUzZUc5OWdBdW5BTGZ5OHFtQnN4S0FEcUl5U2xnXC9qZlNcL2w2U2Rla0dCam0xQnVxRkFHakFCM3o0UUhQRkdcL25GNmI4VnNUdjVDYTNaZ0E9PSIsIm1hYyI6ImI4NTI5NGU2N2E3MjdmOTA3NTM2MTNiZDUzYjI4YmJmNjk1ZDkzN2Y5MmQ0Mzk4Y2YyYzc3N2JhZGE0OThiMDIifQ%3D%3D",
         "limitPage": "",
-        "is_web" : true
+        "is_web" : false
   },
   {
     "name":"TOOMVA",
