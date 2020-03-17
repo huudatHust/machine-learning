@@ -25,7 +25,8 @@
         "site" : "https://www.nhaccuatui.com/",
         "domain":".nhaccuatui.com",
         "cookie" :"NCT_AUTH_JWT=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTEyMDcsImxvZ2luTWV0aG9kIjoiMiIsInVzZXJJZCI6IjkzMjcyODYiLCJuYmYiOjE1NzkwNTkyMDcsImlhdCI6MTU3OTA1OTIwNywiZGV2aWNlSWQiOiI0NThBNTVGRjJBNTc0OTIyOTg2QUZGRUYxQzVGMjY0NSJ9.Vlhefb10vuQtKFsXI5XtO3K3iH8FmhvfXMwNAVLwcec",
-        "limitPage": ""
+        "limitPage": "",
+        "is_web": true
   },
   {
     "name":"CLIPTV",
