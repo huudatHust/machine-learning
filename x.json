@@ -47,8 +47,8 @@
   {
     "name":"ZING TV",
         "site" : "https://tv.zing.vn/",
-        "domain":".toomva.com",
-        "cookie" :"remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IjB3N3cyaTJnUndcLzdVNmw4dVwvQlJ3dz09IiwidmFsdWUiOiJrcFRyd2cxa2lkZnRhdVo4UmNoZnJFdU4ybmQ3Z0w4SjRVOTE3YVlGc2M5TWZDQTdBUlB3Z3RMakNxVnZkbEJLUnpoZkYrdExIazdmeWJDQ00rdXV2UlZWVVkzYzJ6aWZrdEk3c3Q5ZGo4TT0iLCJtYWMiOiJiMDI2NWExY2FkNTJkYWM3YjJjOTdiNGYxMTZmZjM5NGUxMmYzNmVlMjdiNTlmOGIwMWJiMGQ1MTcwMmZjYTA4In0%3D",
+        "domain":"tv.zing.vn",
+        "cookie" :"visitorID=3000.SSZzejyD0jSbZQcztqW0Wpl3fwMS51A99D7bjue0KTPYrkN-n0PKqcBMhV_31n3NPzEd-i4C4Dy.1",
         "limitPage": "",
         "is_web" : true
   }
