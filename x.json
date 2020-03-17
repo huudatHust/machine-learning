@@ -47,8 +47,8 @@
   {
     "name":"ZING TV",
         "site" : "https://tv.zing.vn/",
-        "domain":"tv.zing.vn",
-        "cookie" :"visitorID=3000.SSZzejyD0jSbZQcztqW0Wpl3fwMS51A99D7bjue0KTPYrkN-n0PKqcBMhV_31n3NPzEd-i4C4Dy.1",
+        "domain":".tv.zing.vn",
+        "cookie" :".zaloapp.hasSynced=true; fpsend=146708; ZMP3_VERSION=V5; zpsid=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv; zpsidleg=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv",
         "limitPage": "",
         "is_web" : true
   }
