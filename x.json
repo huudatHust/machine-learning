@@ -30,12 +30,12 @@
         "is_web" : false
   },
   {
-    "name":"ZING TV",
-        "site" : "https://tv.zing.vn/",
-        "domain":".tv.zing.vn",
-        "cookie" :".zaloapp.hasSynced=true; fpsend=146708; ZMP3_VERSION=V5; zpsid=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv; zpsidleg=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv",
+    "name":"ZING MP3",
+        "site" : "https://zingmp3.vn/",
+        "domain":".zingmp3.vn",
+        "cookie" :"zmp3_sid=av6zKVueG6AEbRfU_IjRRP2Nx2gRCLH4aS3n6QKSIqQgyV81cWbvV87QynwIDtzLkjZNFCyhJ6RzqDevuIbVHCp5_7Ze96KmujN0OeyaOXV_yDvxP0",
         "limitPage": "",
-        "is_web" : true
+        "is_web" : false
   },
   {
     "name":"HELLO CHAO",
