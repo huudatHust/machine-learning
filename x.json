@@ -22,14 +22,6 @@
         "is_web": true
   },
   {
-    "name":"CLIPTV",
-        "site" : "https://cliptv.vn/",
-        "domain":".cliptv.vn",
-        "cookie" :"clip_web=eyJpdiI6IlF6SnBWZTUwN3pBSXNBZktVYkRnOVE9PSIsInZhbHVlIjoiZldId2luWlUzZUc5OWdBdW5BTGZ5OHFtQnN4S0FEcUl5U2xnXC9qZlNcL2w2U2Rla0dCam0xQnVxRkFHakFCM3o0UUhQRkdcL25GNmI4VnNUdjVDYTNaZ0E9PSIsIm1hYyI6ImI4NTI5NGU2N2E3MjdmOTA3NTM2MTNiZDUzYjI4YmJmNjk1ZDkzN2Y5MmQ0Mzk4Y2YyYzc3N2JhZGE0OThiMDIifQ%3D%3D",
-        "limitPage": "",
-        "is_web" : true
-  },
-  {
     "name":"TOOMVA",
         "site" : "https://toomva.com/",
         "domain":".toomva.com",
@@ -47,10 +39,18 @@
   },
   {
     "name":"HELLO CHAO",
-        "site" : "https://www.hellochao.vn/",
+        "site" :"https://www.hellochao.vn/my-hellochao/?option=course",
         "domain":"www.hellochao.vn",
         "cookie" :"CUSER_INFO=b%28n018.e5me76a9lgf.o9ef%2A%2A66cco1t5m5a6fe35ce8l9rn216%40457d07%29bigAU;PHPSESSID=Me0PyQxuVkfPHjyZ4v6Ul1WdUc7; __tawkuuid=e::hellochao.vn::kDS9r4pSjU2o6TGyA0rRWWKxlT5T9VnjNifu+5mtrlWR6IwzbvjKFVhI8s6mA7qw::2",
         "limitPage": "",
         "is_web" : false
+  },
+  {
+    "name":"CLIPTV",
+        "site" : "https://cliptv.vn/",
+        "domain":".cliptv.vn",
+        "cookie" :"clip_web=eyJpdiI6IlF6SnBWZTUwN3pBSXNBZktVYkRnOVE9PSIsInZhbHVlIjoiZldId2luWlUzZUc5OWdBdW5BTGZ5OHFtQnN4S0FEcUl5U2xnXC9qZlNcL2w2U2Rla0dCam0xQnVxRkFHakFCM3o0UUhQRkdcL25GNmI4VnNUdjVDYTNaZ0E9PSIsIm1hYyI6ImI4NTI5NGU2N2E3MjdmOTA3NTM2MTNiZDUzYjI4YmJmNjk1ZDkzN2Y5MmQ0Mzk4Y2YyYzc3N2JhZGE0OThiMDIifQ%3D%3D",
+        "limitPage": "",
+        "is_web" : true
   }
 ]}
