@@ -44,5 +44,13 @@
         "cookie" :".zaloapp.hasSynced=true; fpsend=146708; ZMP3_VERSION=V5; zpsid=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv; zpsidleg=eMqpTboXOplEB3TjGgSuEj8gCcb2fo8wpb9p5LkVEqwmLNTrP8Dv9vDT7mPtgcGnZNmNCNN_HI2x8o81Oyjg8Q121nTTpdmxnXKr5mUNSWtiNJuv",
         "limitPage": "",
         "is_web" : true
+  },
+  {
+    "name":"HELLO CHAO",
+        "site" : "https://www.hellochao.vn/",
+        "domain":"www.hellochao.vn",
+        "cookie" :"CUSER_INFO=b%28n018.e5me76a9lgf.o9ef%2A%2A66cco1t5m5a6fe35ce8l9rn216%40457d07%29bigAU;PHPSESSID=Me0PyQxuVkfPHjyZ4v6Ul1WdUc7; __tawkuuid=e::hellochao.vn::kDS9r4pSjU2o6TGyA0rRWWKxlT5T9VnjNifu+5mtrlWR6IwzbvjKFVhI8s6mA7qw::2",
+        "limitPage": "",
+        "is_web" : false
   }
 ]}
