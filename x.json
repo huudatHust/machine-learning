@@ -30,14 +30,6 @@
         "is_web" : false
   },
   {
-    "name":"ZING MP3",
-        "site" : "https://zingmp3.vn/",
-        "domain":".zingmp3.vn",
-        "cookie" :"zmp3_sid=av6zKVueG6AEbRfU_IjRRP2Nx2gRCLH4aS3n6QKSIqQgyV81cWbvV87QynwIDtzLkjZNFCyhJ6RzqDevuIbVHCp5_7Ze96KmujN0OeyaOXV_yDvxP0; session_key=av6zKVueG6AEbRfU_IjRRP2Nx2gRCLH4aS3n6QKSIqQgyV81cWbvV87QynwIDtzLkjZNFCyhJ6RzqDevuIbVHCp5_7Ze96KmujN0OeyaOXV_yDvxP0",
-        "limitPage": "",
-        "is_web" : true
-  },
-  {
     "name":"HELLO CHAO",
         "site" :"https://www.hellochao.vn/my-hellochao/?option=course",
         "domain":"www.hellochao.vn",
