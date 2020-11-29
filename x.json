@@ -3,7 +3,7 @@
     "name":"TIENG ANH 123",
         "site" : "https://www.tienganh123.com/",
         "domain":".tienganh123.com",
-        "cookie" :"php7_ta_123_session_id=5ncs3u3pth85nmgg1992hcksn4",
+        "cookie" :"php7_ta_123_session_id=4o95c0p8pi1a7e1vdqea2lmkl6",
         "limitPage": ""
   },
   {
@@ -41,7 +41,7 @@
     "name":"CLIPTV",
         "site" : "https://cliptv.vn/",
         "domain":".cliptv.vn",
-        "cookie" :"access_token=1a26223268c10033e1618663557p0c2000344311.dfbc450dae16d01b54fdba5f6d38470a;;device_id=c84799ac2fd1c2b97a06fdfbf050d97d;;vnsls=1;;check_refresh_token=2020-04-19+22%3A30%3A44;clip_web=eyJpdiI6Im1oOVlXa0VOMTc3OVh5bFoxRGZvSUE9PSIsInZhbHVlIjoiaTBcL1FxcHN6VDRVQmFVdVBjN2JvRWE0UXppVXV5Mk1JWTZKU0gxQjU1c1wvZDlQaE5sb05kclFwVitOSjY0bHJsUjRBQ2lrWWI3QnpiOTdsbGxUTHd6dz09IiwibWFjIjoiN2E0NzA0M2ZmYzc1MWIzNGJiMTY1Njg0NzFmZmI2MDcyNDBiYjQ3NDk2MzQ3ZTdlZjIwYzU0ZGM0NGZjODIzOCJ9",
+        "cookie" :"access_token=1a26223268c10033e1618663557p0c2000344311.dfbc450dae16d01b54fdba5f6d38470a;;device_id=4373b8536f9ef3f339bec537b005530b;;vnsls=1;;check_refresh_token=2020-05-06+08%3A56%3A44;;clip_web=eyJpdiI6IjB4dnlNY3MyWFFTMkpPWFhFb1pzbGc9PSIsInZhbHVlIjoiYnBlb3JINmFicE9uS1YraVNrXC81d2ZNNVRSbmhuWUs2Y3pGVnY1SzNxSzNVSXlrMXQzRHRzRjc0MnQzTFB6U0xyVGUzeDRHNTlDQU5nWGFySWw5WlNBPT0iLCJtYWMiOiIwZDE1MGIwZTIxYjFiNmNlOWM2MmVkZDQ4YWZmZjU4Y2YwZTEzMTgxNjhiZjVmM2M2ODA3MzI1Zjg0YWU4ZDliIn0%3D",
         "limitPage": "",
         "is_web" : true
   }
